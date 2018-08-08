@@ -28,13 +28,13 @@ It is possible to log `x` because it has already been declared and defined, and 
 Two options are possible. Either declare `z` before trying to log it, or use `var` instead of `let`.
 ```js
 var x = "a string";
-let z = "two strings";
+let z = "three strings";
 
 console.log(x);
 console.log(y);
 console.log(z);
 
-var y = "sillier strings";
+var y = "two strings";
 
 
 console.log(x + " is great, " + y + " is better but the best is " + z)
