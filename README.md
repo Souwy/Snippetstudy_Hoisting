@@ -40,15 +40,16 @@ var y = "two strings";
 console.log(x + " is great, " + y + " is better but the best is " + z)
 ```
 
-## Study links:
-[Repl.it](https://repl.it/@dleufer/snippetstudyhoisting)
-
-[PythonTutor](https://goo.gl/upKTKz)
-
-[Good explanation on W3](https://www.w3schools.com/js/js_hoisting.asp)
-
+## Vocabulary
+- 
+   
 ## Review
+* Struggles: 
+  * 
+* Learning objectives that need extra work?   
+  * 
+* next steps: 
+  * 
 
-
-### Things I learned
-How logging works with hoisted but undeclared variables.
+## Helpful links
+[Good explanation on W3](https://www.w3schools.com/js/js_hoisting.asp)
